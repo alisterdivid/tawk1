@@ -1,0 +1,201 @@
+{
+  "c": "__callback__",
+  "p": [
+    null,
+    {
+      "initData": {
+        "aid": "5a60123e3098e70e78bf9fac",
+        "rsc": "36498fe81e1edbcbf20a8fe38bf3fd0d3a33f6e9",
+        "st": "o",
+        "n": "frank",
+        "fn": "frank",
+        "ln": "",
+        "e": "softensoftwares@gmail.com",
+        "sg": {
+          "lc": "en",
+          "cwc": 4,
+          "sd": {
+            "iv": {
+              "n": "none",
+              "vl": 100
+            },
+            "icr": {
+              "n": "sound7",
+              "vl": 100,
+              "loop": 5
+            },
+            "im": {
+              "n": "sound8",
+              "vl": 100
+            },
+            "dc": {
+              "n": "sound10",
+              "vl": 100
+            },
+            "acm": {
+              "n": "sound17",
+              "vl": 100
+            }
+          },
+          "ac": {
+            "groupView": "min",
+            "agentView": "min"
+          }
+        },
+        "als": [
+          {
+            "alsid": "634c28d1-fbfe-11e7-ad54-570930befdae",
+            "dn": "frank",
+            "pst": "",
+            "en": true
+          }
+        ],
+        "dals": "634c28d1-fbfe-11e7-ad54-570930befdae",
+        "act": true,
+        "sw": false
+      },
+      "pages": [
+        {
+          "_id": "5a60123e3098e70e78bf9fad",
+          "cb": "5a60123e3098e70e78bf9fac",
+          "t": "profile",
+          "pt": "page",
+          "twid": "cbbad3306eeace062ffbba9213fe036bf4ea3d3a",
+          "dmn": "",
+          "ai": "",
+          "pst": "",
+          "a": [
+            {
+              "aid": "5a60123e3098e70e78bf9fac",
+              "rl": "admin",
+              "ha": false,
+              "en": true,
+              "pen": true
+            }
+          ],
+          "dptsver": 0,
+          "wdgtv": 0,
+          "asver": 139,
+          "en": true,
+          "cw": false,
+          "wdgts": {
+            "page": ""
+          },
+          "dptst": [],
+          "astuo": "2018-03-23T03:52:39.743Z"
+        },
+        {
+          "_id": "5a67ac584b401e45400c5653",
+          "cb": "5a54ed99f721561639dbfc89",
+          "t": "business",
+          "pt": "site",
+          "twid": "4eac043aab24bb0bfbc302fec70f86625215ca18",
+          "pgn": "Pickering Toyota Live Video Chat",
+          "dmn": "https://www.pickeringtoyota.com/video-chat",
+          "ai": "",
+          "pst": "",
+          "a": [
+            {
+              "aid": "5a54ed99f721561639dbfc89",
+              "rl": "admin",
+              "ha": false,
+              "en": true,
+              "pen": true
+            },
+            {
+              "aid": "5a60123e3098e70e78bf9fac",
+              "rl": "admin",
+              "en": true,
+              "pen": true
+            },
+            {
+              "aid": "5a87536023af486d55e305f9",
+              "rl": "agent",
+              "en": true,
+              "pen": true
+            },
+            {
+              "aid": "5a8c5e324c3c5d0e7f5915ce",
+              "rl": "agent",
+              "en": true,
+              "pen": true
+            }
+          ],
+          "dptsver": 0,
+          "wdgtv": 0,
+          "asver": 1392,
+          "en": true,
+          "cw": false,
+          "wdgts": {
+            "default": ""
+          },
+          "dptst": [],
+          "astuo": "2018-01-23T21:42:48.177Z",
+          "addons": {
+            "webrtc": {
+              "settings": {
+                "enabled": true,
+                "video": true,
+                "screen": true
+              },
+              "expiry": "2018-04-24T23:59:59.999Z"
+            }
+          }
+        },
+        {
+          "_id": "5a55196ed7591465c7069586",
+          "cb": "5a54ed99f721561639dbfc89",
+          "t": "business",
+          "pt": "site",
+          "twid": "f69d8527f079e1afded39c21dc7fa6e27c3401a0",
+          "pgn": "Uniqks",
+          "dmn": "www.uniqks.com",
+          "ai": "",
+          "pst": "",
+          "a": [
+            {
+              "aid": "5a54ed99f721561639dbfc89",
+              "rl": "admin",
+              "ha": false,
+              "en": true,
+              "pen": true
+            },
+            {
+              "aid": "5a5502f16b38880e815d37a7",
+              "rl": "agent",
+              "en": true,
+              "pen": true
+            },
+            {
+              "aid": "5a60123e3098e70e78bf9fac",
+              "rl": "agent",
+              "en": true,
+              "pen": true
+            }
+          ],
+          "dptsver": 0,
+          "wdgtv": 0,
+          "asver": 630,
+          "en": true,
+          "cw": false,
+          "wdgts": {
+            "default": ""
+          },
+          "dptst": [],
+          "astuo": "2018-01-09T19:35:10.830Z",
+          "addons": {
+            "webrtc": {
+              "settings": {
+                "enabled": true,
+                "video": true,
+                "screen": true
+              },
+              "expiry": null
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "cb": 0
+}

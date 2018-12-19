@@ -1,0 +1,13 @@
+{
+    "name": "newth/livechat",
+    "description": "live chat admin",
+    "authors": [
+        {
+            "name": "alisterdivid",
+            "email": "alister11david@gmail.com"
+        }
+    ],
+    "require": {
+        "cboden/ratchet": "^0.4.1"
+    }
+}

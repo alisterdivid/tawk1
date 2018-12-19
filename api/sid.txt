@@ -1,0 +1,1 @@
+98:0{"sid":"uXxVN9UKYU7MXKHvB691","upgrades":["websocket"],"pingInterval":25000,"pingTimeout":120000}

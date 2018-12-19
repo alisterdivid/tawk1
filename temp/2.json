@@ -1,0 +1,13 @@
+{
+  "c": "ready",
+  "p": [
+    {
+      "origin": "d46b7c82efd4b836dfb918288a8f6825865fb33e",
+      "socketId": "LBD8jQRyct-5U5XhBnRX",
+      "buildVersion": 554,
+      "features": {
+        "visitor_tagging": 1
+      }
+    }
+  ]
+}

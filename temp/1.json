@@ -1,0 +1,8 @@
+{
+  "sid": "LBD8jQRyct-5U5XhBnRX",
+  "upgrades": [
+    "websocket"
+  ],
+  "pingInterval": 25000,
+  "pingTimeout": 120000
+}

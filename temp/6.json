@@ -1,0 +1,87 @@
+{
+  "c": "__callback__",
+  "p": [
+    null,
+    [
+      {
+        "propertyId": "5a60123e3098e70e78bf9fad",
+        "tabs": [
+          {
+            "tabType": "internal",
+            "label": "chat_details",
+            "enabled": true
+          },
+          {
+            "tabType": "internal",
+            "label": "shortcuts",
+            "enabled": true
+          },
+          {
+            "tabType": "internal",
+            "label": "knowledge_base",
+            "enabled": true
+          },
+          {
+            "tabType": "internal",
+            "label": "history",
+            "enabled": true
+          }
+        ],
+        "tabsv": 0
+      },
+      {
+        "propertyId": "5a67ac584b401e45400c5653",
+        "tabs": [
+          {
+            "tabType": "internal",
+            "label": "chat_details",
+            "enabled": true
+          },
+          {
+            "tabType": "internal",
+            "label": "shortcuts",
+            "enabled": true
+          },
+          {
+            "tabType": "internal",
+            "label": "knowledge_base",
+            "enabled": true
+          },
+          {
+            "tabType": "internal",
+            "label": "history",
+            "enabled": true
+          }
+        ],
+        "tabsv": 0
+      },
+      {
+        "propertyId": "5a55196ed7591465c7069586",
+        "tabs": [
+          {
+            "tabType": "internal",
+            "label": "chat_details",
+            "enabled": true
+          },
+          {
+            "tabType": "internal",
+            "label": "shortcuts",
+            "enabled": true
+          },
+          {
+            "tabType": "internal",
+            "label": "knowledge_base",
+            "enabled": true
+          },
+          {
+            "tabType": "internal",
+            "label": "history",
+            "enabled": true
+          }
+        ],
+        "tabsv": 0
+      }
+    ]
+  ],
+  "cb": 3
+}
